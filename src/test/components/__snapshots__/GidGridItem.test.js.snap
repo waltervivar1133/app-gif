@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en GridItem debe mostrar el componente correctamente 1`] = `
+<Fragment>
+  <div
+    className="card  animate__animated animate__backInLeft"
+  >
+    <img
+      alt="un titulo"
+      src="https://localhost/data.png"
+    />
+    <div>
+      un titulo
+    </div>
+  </div>
+</Fragment>
+`;
